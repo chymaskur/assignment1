@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+}
+
+body{
+    
+    background-color: rgb(206, 221, 206);
+}
+
+
+
+.manu-link a{
+    
+    margin:  2%;
+    float: right;
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    padding: 10px ;
+}  
+
+
+h1{
+    font-size: 50px;
+    height: 150px;
+
+}
+   
+.name-color{
+    color: tomato;
+}
+
+section{
+    height: 100%;
+    width: 100%;
+    clear: both;
+   
+}
+
+
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 5%;  
+}
+
+
+
+.link-btn{
+    background-image: linear-gradient(45deg, red, blue);
+    color: white;
+    padding: 14px 25px;
+    margin-top: 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+      
+}
+
+
+
+.half-width img{
+    width: 100%;
+    clear: both;
+        
+}
+
+
+
+.project-area{
+    text-align: center;
+    padding-top: 5%;
+    clear: both;
+}
+
+
+.project-headline{
+    font-size: 40px;
+    margin: 10%;
+    border: sandybrown;
+    
+}
+
+
+.project-portfolio1{
+    background-image: url("images/pro1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    text-align: bottom;
+    text-shadow: 2px 3px rgb(7, 7, 7);
+    color: thistle;
+    width: 200px;
+    padding: 6%;
+    margin: auto;
+    float: left;
+    
+    
+ 
+}
+
+.project-portfolio2{
+    height: 100%;
+    background-image: url("images/pro2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    text-shadow: 2px 3px rgb(7, 7, 7);
+    text-align: bottom;
+    color: thistle;
+    width: 200px;
+    padding: 6%;
+    margin:auto;
+    float: left;
+    
+}
+
+.project-portfolio3{
+    background-image: url("images/pro3.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: bottom;
+    text-shadow: 2px 3px rgb(7, 7, 7);
+    color: thistle;
+    width: 200px;
+    padding: 6%;
+    margin: auto;
+    float: left;
+   
+
+}
+
+
+
+.inquary{
+    background-image: url("images/inquary-link.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 30%;
+    position: relative;
+    text-align: right;
+    padding: 10%;
+    margin: 6% 25% ;
+    clear: both;
+
+      
+}
+
+.inquary-btn{
+      
+    background-image: linear-gradient(45deg, red, blue);
+    color: white;
+    padding: 14px 25px;
+    margin-top: 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+
+
+.follow{
+    text-align: center;
+    clear: both;
+}
+
+.follow img{
+    width: 3%;
+    margin: 1% ;
+    
+}
